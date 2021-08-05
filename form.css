@@ -1,0 +1,14 @@
+html{
+    height: 100%;
+    background-image: url(../img/moodle-logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: center;
+    
+}
+p{
+    text-align: center;
+}
+form{
+    margin-left: 15%;
+}
